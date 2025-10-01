@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/3067/phuong-phap-hut-thai-chan-khong-la-gi"
+if (crurl.includes("https://bvdkht.vn/feedback/3080/nhung-ly-do-pho-bien-khien-phu-nu-dinh-chi-thai-ky-can-duoc-chia-se"
 )) {
     document.querySelector('html').innerHTML = `
    <html lang="vi">
@@ -345,3 +345,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/3067/phuong-phap-hut-thai-chan-kh
     `;
 
 }
+
